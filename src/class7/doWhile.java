@@ -3,17 +3,17 @@ import java.util.Scanner;
 public class doWhile {
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
-        int number;
+       /* int number;
          do{
              System.out.println("Please enter a number");
              number=scan.nextInt();
          } while (number!=5);
 
 
-        System.out.println("*****************************");
+        System.out.println("*****************************");*/
 
 
-        int number2=5;
+        int number2=9;
 
         while(number2!=5){
             System.out.println("Please enter a number");

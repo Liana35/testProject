@@ -4,7 +4,7 @@ public class whileloop2 {
 
         int number = 10;
         while (number < 20) {
-            System.out.println(number < 20);
+            System.out.println(number <20);
             if (number < 15) {
                 System.out.println("number is still less than 15");
             } else {
