@@ -20,6 +20,36 @@ public class Task7 {
         {System.out.println(number +" is not greater than 1");}
         else
             System.out.println(number + " is a prime number");
+
+
+
+        int given=4;
+        boolean isPrime=true;
+
+        if(given>1){
+
+            for(int i=2; i<given; i++) {
+
+                if(given%i==0){
+
+                   isPrime=false;
+                   break;
+
+                }
+            }
+
+        }else{
+            isPrime=false;
+        }
+        System.out.println("Given number "+given+" is Prime?"+isPrime);
+
+
+
+
+
+
+
+
     }
 
 }
