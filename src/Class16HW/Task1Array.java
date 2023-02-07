@@ -26,6 +26,7 @@ package Class16HW;
          System.out.println(num.sumoOfArray(new int []{10,15,15}));
 
 
+
      }
 
 

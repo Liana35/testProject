@@ -24,6 +24,8 @@ public class Task3H17 {
     public static void main(String[] args) {
         Task3H17 sameClass= new Task3H17(2, "hjerhj");
 
+        Task3H17 sameClass2= new Task3H17();
+
     }
 }
 

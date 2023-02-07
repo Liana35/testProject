@@ -19,7 +19,7 @@ public class MethodPractice {
 
 
    // second way
-   /*boolean isEven(int number){
+  /* boolean isEven(int number){
 
       if (number%2==0){
         return true;

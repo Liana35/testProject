@@ -15,5 +15,6 @@ public class StringDemo2 {
         String upperCaseLetter=str2.toUpperCase(); // upperCaseLetter - name of the object
         System.out.println(upperCaseLetter);
 
+
     }
 }
