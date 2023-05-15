@@ -4,7 +4,7 @@ public class CarClassTester {
     public static void main(String[] args) {
 
 
-        // this is a method - carClass tester
+
         // the carClass -is a class
 
         //Create an object of a class

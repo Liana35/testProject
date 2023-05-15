@@ -20,9 +20,9 @@ public class Pasta {
      }
 
    Pasta(){
-         type="Ravioli";
+         /*type="Ravioli";
          sauce="Cream sauce";
-         cost=30;
+         cost=30;*/
 
      }
      void printInfo(){

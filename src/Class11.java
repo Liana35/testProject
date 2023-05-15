@@ -1,28 +1,16 @@
 public class Class11 {
+    void print (){
+        System.out.println("Programming is amazing.");
+    }
+    static void printInfo(){
+        System.out.println("Java is awesome.");
+    }
 
+    public static void main(String[] args) {
+        Class11 printing = new Class11();
+       printing.print();
+       printing.printInfo();
 
-        public static void main(String[] args)
-        {
-            int z=2, sum=0;
-
-            while(z<9) {
-
-                z++;
-
-                sum=sum+z;
-
-            }
-
-            System.out.print(sum);
-
-
-
-        }
-
-
-
-
-
-
+    }
     }
 

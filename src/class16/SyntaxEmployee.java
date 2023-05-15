@@ -24,7 +24,6 @@ public class SyntaxEmployee {
         System.out.println(emp1.CEO);
 
 
-        ;
 
 
 

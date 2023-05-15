@@ -17,7 +17,8 @@ public class MethodPractice2 {
 
     //2way
     String reverseStr1(String input) {
-        return new StringBuilder(input).reverse().toString();
+
+       return new StringBuilder(input).reverse().toString();
     }
 
 

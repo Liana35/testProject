@@ -23,6 +23,7 @@ public class D2Array {
 
 
         int [] arr=matrix[0];  // getting complete first array from 2D array
+
         for (int i=0; i<arr.length; i++){
             System.out.println(arr[i]);
         }
